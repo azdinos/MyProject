@@ -1,4 +1,4 @@
-# BackupTask can help you to backup your directories and databases
+# BackupManager can help you to backup your directories and databases
 
 Create directories and databases backup, upload it to local directory or to ftp and send notification email with detail statistics.
 
@@ -11,7 +11,7 @@ Create directories and databases backup, upload it to local directory or to ftp 
 
 ### Download library
 
-    git clone git://github.com/AlexeyFreelancer/BackupTask.git
+    git clone git://github.com/azedd-o/BackupManager.git
     git clone git://github.com/symfony/ClassLoader.git
     
 ### Configure
